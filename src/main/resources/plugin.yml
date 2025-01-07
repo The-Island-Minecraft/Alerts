@@ -1,0 +1,13 @@
+name: alertpl
+version: '1.0-SNAPSHOT'
+commands:
+  resalert:
+    description: Alert by WhityFox
+    usage: /resalert
+    aliases: [ral]
+  alert:
+    description: Alert by WhityFox
+    usage: /alert
+    aliases: [al]
+main: me.whityfox.alertpl.Alertpl
+api-version: '1.21'

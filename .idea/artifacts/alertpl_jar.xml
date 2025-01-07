@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="alertpl:jar">
+    <output-path>E:/server/plugins</output-path>
+    <root id="archive" name="alertpl.jar">
+      <element id="module-output" name="alertpl" />
+    </root>
+  </artifact>
+</component>
